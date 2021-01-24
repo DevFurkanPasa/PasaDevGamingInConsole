@@ -1,0 +1,13 @@
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\bin\Debug\netcoreapp3.1\PasaDevGaming.exe
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\bin\Debug\netcoreapp3.1\PasaDevGaming.deps.json
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\bin\Debug\netcoreapp3.1\PasaDevGaming.runtimeconfig.json
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\bin\Debug\netcoreapp3.1\PasaDevGaming.runtimeconfig.dev.json
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\bin\Debug\netcoreapp3.1\PasaDevGaming.dll
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\bin\Debug\netcoreapp3.1\PasaDevGaming.pdb
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.csprojAssemblyReference.cache
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.AssemblyInfoInputs.cache
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.AssemblyInfo.cs
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.csproj.CoreCompileInputs.cache
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.dll
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.pdb
+C:\Users\Furka\source\repos\KampIntro\PasaDevGaming\obj\Debug\netcoreapp3.1\PasaDevGaming.genruntimeconfig.cache
